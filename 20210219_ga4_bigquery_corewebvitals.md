@@ -171,8 +171,8 @@ CTO室 データ分析基盤グループ リーダー
 **ポイント**
 
 - テーブルの各行は**イベント単位**で、**ネスト**される形で**イベントパラメータ**が格納される
-  - event_parameter.keyに各イベントパラメータの名前が格納される
-  - event_parameter.value以下に各イベントパラメータの値が格納される
+  - event_params.keyに各イベントパラメータの名前が格納される
+  - event_params.value以下に各イベントパラメータの値が格納される
     - 値の型によりstring_value, int_value, float_value, double_valueなど格納されるカラムが異なる
 
 ---
