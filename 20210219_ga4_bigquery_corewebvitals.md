@@ -152,7 +152,7 @@ CTO室 データ分析基盤グループ リーダー
 
 ---
 
-[SQLファイルはこちら]()
+[SQLファイルはこちら](https://github.com/OTA2000/20210219_bq_sushi_ga4/blob/main/1.sql)
 
 ![width:1000px](sql1.png)
 
@@ -191,7 +191,7 @@ CTO室 データ分析基盤グループ リーダー
 
 ---
 
-[SQLファイルはこちら]()
+[SQLファイルはこちら](https://github.com/OTA2000/20210219_bq_sushi_ga4/blob/main/2.sql)
 
 ![width:500px](sql2.png)
 
